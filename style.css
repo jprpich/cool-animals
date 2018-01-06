@@ -1,0 +1,38 @@
+/*Definitely need to learn css!*/
+/*Especially need to learn how to organize my code and comment everything!*/
+
+
+/*applied to the whole body*/
+body {
+  color: maroon;
+  font-size: 1.2em;
+  font-family: Courier;
+}
+
+
+
+/*applied to every image*/
+img {
+  width: 100%;
+  height: 600px;
+  opacity: 0.9;
+}
+
+/*nice hr from codepen */
+hr { 
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+
+/*the container*/
+.container{
+  text-align: center;
+  margin-top: 80px;
+  width: 800px;
+  margin: 0 auto;
+}
